@@ -9,3 +9,5 @@ The specific contributions of this project are as follows:
 1. How I addressed the skewed class distribution problem in the dataset using the Synthetic Minority Over-sampling Technique (SMOTE).
 2. How I applied the Keras ModelCheckpoint callback during training to capture the best optimized model on the basis validation loss.
 3. How I handled some of the reproducibility issues inherent in the use of neural networks by applying Central Limit Theorem.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyYakuza/Forest-Cover-Type-Classification-NN/blob/main/forest_covertype_nn.ipynb)
