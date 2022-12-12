@@ -1,4 +1,4 @@
-# Forest-Cover-Type-Classification-NN
+# Achieving 90% Recall with a Deep Neural Network: How SMOTE and ModelCheckpoint Callbacks Improved Results on a Skewed Classification Problem
 
 ## Abstract:
 
